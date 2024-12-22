@@ -18,6 +18,7 @@ namespace ExpandedContent.Tweaks {
                 Miscellaneous.BullseyeShot.AddBullseyeShot();
                 Miscellaneous.PinpointTargeting.AddPinpointTargeting();
                 Miscellaneous.DemonHunter.AddDemonHunter();
+                Miscellaneous.NobleScion.AddNobleScion();
 
                 Classes.DrakeClass.DrakeCompanionClass.AddDrakeCompanionClass();
                 Classes.DrakeClass.DrakeCompanionGreen.AddDrakeCompanionGreen();
@@ -251,6 +252,7 @@ namespace ExpandedContent.Tweaks {
                 DemonLords.CythVsug.AddCythVsugFeature();
                 DemonLords.Jezelda.AddJezeldaFeature();
                 DemonLords.Shax.AddShaxFeature();
+                DemonLords.Abraxas.AddAbraxasFeature();
 
                 Deities.Apsu.AddApsu();
                 Deities.Dahak.AddDahakFeature();
